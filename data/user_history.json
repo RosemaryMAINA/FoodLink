@@ -1,0 +1,122 @@
+[
+  {
+    "ts": "2025-08-31T18:08:47.872506Z",
+    "ingredients": [
+      "chapati",
+      "beans",
+      "kales"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:11:02.248945Z",
+    "ingredients": [
+      "fries",
+      "sausage"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:11:15.897343Z",
+    "ingredients": [
+      "sausage"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:11:35.144934Z",
+    "ingredients": [
+      "kales",
+      "flour",
+      "onion"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:11:43.173844Z",
+    "ingredients": [
+      "kales",
+      "flour",
+      "onion"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:32:51.425584Z",
+    "ingredients": [
+      "ORANGE",
+      "WATERLEMON"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:34:21.672843Z",
+    "ingredients": [
+      "CHICKEN",
+      "FLOUR"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:34:26.773370Z",
+    "ingredients": [
+      "CHICKEN",
+      "FLOUR"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:34:27.617943Z",
+    "ingredients": [
+      "CHICKEN",
+      "FLOUR"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:34:27.836887Z",
+    "ingredients": [
+      "CHICKEN",
+      "FLOUR"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:38:29.863285Z",
+    "ingredients": [
+      "FISH",
+      "RICE"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T18:38:45.806846Z",
+    "ingredients": [
+      "WARU"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T20:46:09.771736Z",
+    "ingredients": [
+      "meat",
+      "potatoes"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T20:47:43.460838Z",
+    "ingredients": [
+      "potato",
+      "meat"
+    ],
+    "recipes_count": 3
+  },
+  {
+    "ts": "2025-08-31T20:53:35.426162Z",
+    "ingredients": [
+      "ingredients"
+    ],
+    "recipes_count": 3
+  }
+]

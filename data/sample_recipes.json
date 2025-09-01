@@ -1,0 +1,128 @@
+[
+  {
+    "title": "One-Pot Rice & Beans Stew",
+    "ingredients": [
+      "rice",
+      "beans",
+      "onion",
+      "tomato",
+      "oil",
+      "salt"
+    ],
+    "steps": [
+      "Rinse rice and pre-cook beans if needed.",
+      "Saute onions and tomatoes in oil until soft.",
+      "Add rice, beans, water, salt; simmer until rice is cooked.",
+      "Serve warm."
+    ],
+    "estimated_cost": "KSh 150",
+    "nutrition_score": 78,
+    "missing_items": []
+  },
+  {
+    "title": "Tomato & Onion Egg Scramble (Serve with Rice)",
+    "ingredients": [
+      "eggs",
+      "tomato",
+      "onion",
+      "salt",
+      "oil",
+      "rice"
+    ],
+    "steps": [
+      "Beat eggs with a pinch of salt.",
+      "Saute onions and tomatoes.",
+      "Add eggs; scramble until set.",
+      "Serve with leftover rice."
+    ],
+    "estimated_cost": "KSh 120",
+    "nutrition_score": 72,
+    "missing_items": [
+      "eggs"
+    ]
+  },
+  {
+    "title": "Beans on Toast (Budget)",
+    "ingredients": [
+      "beans",
+      "bread",
+      "onion",
+      "oil",
+      "salt"
+    ],
+    "steps": [
+      "Warm cooked beans with sauteed onions.",
+      "Toast bread; top with beans.",
+      "Add salt to taste."
+    ],
+    "estimated_cost": "KSh 90",
+    "nutrition_score": 69,
+    "missing_items": [
+      "bread"
+    ]
+  },
+  {
+    "title": "Simple Sukuma Wiki with Ugali",
+    "ingredients": [
+      "kale",
+      "onion",
+      "tomato",
+      "oil",
+      "salt",
+      "maize flour",
+      "water"
+    ],
+    "steps": [
+      "Prepare ugali with maize flour and water.",
+      "Saute onions and tomatoes; add chopped kale and cook until tender.",
+      "Serve with ugali."
+    ],
+    "estimated_cost": "KSh 160",
+    "nutrition_score": 80,
+    "missing_items": [
+      "kale",
+      "maize flour"
+    ]
+  },
+  {
+    "title": "Chapati Wrap with Beans",
+    "ingredients": [
+      "chapati",
+      "beans",
+      "onion",
+      "tomato",
+      "salt",
+      "oil"
+    ],
+    "steps": [
+      "Warm chapatis.",
+      "Prepare a quick bean stew with onions and tomatoes.",
+      "Fill chapatis with beans and roll."
+    ],
+    "estimated_cost": "KSh 180",
+    "nutrition_score": 74,
+    "missing_items": [
+      "chapati"
+    ]
+  },
+  {
+    "title": "Tomato Rice Pilau (Simple)",
+    "ingredients": [
+      "rice",
+      "tomato",
+      "onion",
+      "oil",
+      "salt",
+      "pilau masala"
+    ],
+    "steps": [
+      "Saute onions and tomatoes with pilau masala.",
+      "Add rice and water; cook until done."
+    ],
+    "estimated_cost": "KSh 140",
+    "nutrition_score": 71,
+    "missing_items": [
+      "pilau masala"
+    ]
+  }
+]

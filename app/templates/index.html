@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FoodLink – Zero Hunger</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>FoodLink</h1>
+    <p>Turn what's in your kitchen into nutritious meals.</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Enter available ingredients</h2>
+      <p>Example: rice, beans, tomatoes, onions</p>
+      <textarea id="ingredients" rows="3" placeholder="e.g., rice, beans, tomatoes"></textarea>
+      <button id="generateBtn">Generate Recipes</button>
+      <div id="status"></div>
+    </section>
+
+    <section id="results" class="grid"></section>
+  </main>
+
+  <footer>
+    <small>Built for Vibe Coding 4-3-2 Hackathon – Zero Hunger</small>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
