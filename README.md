@@ -1,6 +1,6 @@
 # FoodLink – AI-Powered Recipe & Nutrition Recommender (Zero Hunger)
 
-Turn what's in your kitchen into nutritious meals. Built for **Vibe Coding 4-3-2 Hackathon** (SDG 2: Zero Hunger).
+Turn what's in your kitchen into nutritious meals. Built for SDG 2: Zero Hunger.
 
 ## ✨ What it does
 - Input ingredients → get 3 simple, low-cost recipes
