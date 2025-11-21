@@ -78,6 +78,8 @@ FoodLink/
 ## 🧪 Testing
 See `docs/testing_plan.md`. Basic manual tests + placeholder automated test file.
 
-## 👥 Team (add yourselves)
+## 👥 Team
 - Name – Role – Email
+- Rosemary-Deployer-rmwambui2022@gmail.com
+- Newton-Deployer-newtonmutembei047@gmail.com
 ```
